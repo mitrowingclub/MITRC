@@ -1,2 +1,2 @@
 # MITRC
-Files for the MITRC website. View at [mitrowing.club]
+Files for the MITRC website. View at (mitrowing.club)
