@@ -70,4 +70,4 @@ _Technology Officer_: Oscar Moll<br>
 
 ## Rowing resources
 
-Materials on [what to wear](what_to_wear.md), on [how to cox](how_to_cox.md) and on [boathouse operations](boathouse_operations.md).
+Materials on [what to wear](what_to_wear.md), on [how to cox](how_to_cox.md) and on [boathouse protocols](boathouse_protocols.md).
