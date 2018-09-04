@@ -11,6 +11,9 @@ MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a yea
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
+MITRC rows from the MIT Pierce boathouse:
+<iframe src="https://snazzymaps.com/embed/95930" width="100%" style="border:none;"></iframe>
+
 ## Joining MITRC
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
   - _Spring_: 8 weeks in April-May
