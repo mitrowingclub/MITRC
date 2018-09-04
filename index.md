@@ -6,9 +6,9 @@
 
 MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a year, we offer programs ranging from total beginners (aka Learn To Row, aka LTR), to novices, to recreational and competitive rowers.  Our members participate in several regattas throughout the year, including the Head of the Charles.
 
-*NB*: MITRC is _not the same_ as the MIT varsity crew. If you are a prospective undegrad athlete interested in rowing while at MIT, you should be contacting the varsity crew website [here](http://mitathletics.com/sports/m-crewlt/index).
+*NB*: MITRC is _not the same_ as the [MIT varsity crew](http://mitathletics.com/sports/m-crewlt/index). If you are a prospective undegrad athlete interested in rowing while at MIT, you should be contacting them.
 
-Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signups for future seasons.
+Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
 ### Joining MITRC: step by step
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
