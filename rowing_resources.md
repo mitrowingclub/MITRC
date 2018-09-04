@@ -1,8 +1,9 @@
 ## Coxing 101
-If you are coxing tomorrow and don't know where to start, watch this video!
+If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Coxing 102
-- [Head of the Charles cox guide](https://youtu.be/5yEnO2kU6Hw), with information about the main hazards.
+- Head of the Charles cox guide with information about the main hazards in the river:
 <div class="iframe_container">
 <iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div>
@@ -13,7 +14,7 @@ If you are coxing tomorrow and don't know where to start, watch this video!
 The MITRC Coxswain Guide provides an introduction to the fundamentals of coxing on the Charles River. 
 The Coxing Clinic page holds audio, video and notes from previous Coxing Clinic.
 
-## PIERCE BOATHOUSE
+## 
 MITRC practices out of MIT's Pierce Boathouse, Building W8, located on campus at 409 Memorial Drive, Cambridge MA 02139.
 The "MITRC Drawer" (for waiver submissions, dues, etc) is located on the lower level, near the cox boxes. It is clearly labeled "MITRC."
 
