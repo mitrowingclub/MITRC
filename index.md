@@ -65,3 +65,5 @@ _Head Coxswain_: Anne Fraysse<br>
 _Alumni/Outreach Managers_: Aimee Gillespie<br>
 _New Member Manager_: KellyAnn Tsai<br>
 _Technology Officer_: Oscar Moll<br>
+
+[Rowing Resources](rowing_resources.md)
