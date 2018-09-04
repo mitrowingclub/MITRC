@@ -1,12 +1,10 @@
 ## Coxing 101
 If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Coxing 102
 - Head of the Charles cox guide with information about the main hazards in the river:
-<div class="iframe_container">
-<iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-</div>
+<iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - The navigation rules for the Charles River and its bridges are in this map. 
 - The Charles river basin next to our boathouse has some special rules, check the map and rules here.
 - Example coxswain [recordings](https://readyallrow.org/coxswain-recordings/)
