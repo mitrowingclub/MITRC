@@ -1,6 +1,6 @@
 ## Welcome to the MIT rowing club's website.
 
-### MITRC TLDR:
+### MITRC TLDR
 
 MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a year, we offer programs ranging from total beginners (aka Learn To Row, aka LTR), to novices, to recreational and competitive rowers.  Our members participate in several regattas throughout the year, including the Head of the Charles.
 
