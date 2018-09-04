@@ -1,7 +1,7 @@
 ## News
 
-*Fall season 2018 started September 4, and is oversubscribed.* If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
-*This website is under construction. The older website is still available at https://sites.google.com/site/mitrowingclub/. Coxing and rowing resources are available there.
+- Fall season 2018 started September 4, and is oversubscribed.* If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
+- This website is under construction. The older website is still available at https://sites.google.com/site/mitrowingclub/. Coxing and rowing resources are available there.
 
 ## MITRC at a glance
 
