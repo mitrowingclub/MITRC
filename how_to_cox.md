@@ -1,7 +1,7 @@
 ## How to cox
-- If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
+- If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide 
 <iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-- Head of the Charles cox guide with information about the main hazards in the river:
+- Head of the Charles cox guide with information about the main hazards in the river
 <iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - [CRAB's](http://www.charlesriverallianceofboaters.org/) map of the Charles with labelled bridges and boathouses
 <iframe src="http://www.charlesriverallianceofboaters.org/map_large.html"></iframe>
