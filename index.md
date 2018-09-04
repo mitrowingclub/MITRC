@@ -1,6 +1,7 @@
 ## News
 
 *Fall season 2018 started September 4, and is oversubscribed.* If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
+*This website is under construction. The older website is still available at https://sites.google.com/site/mitrowingclub/. Coxing and rowing resources are available there.
 
 ## MITRC at a glance
 
@@ -25,15 +26,15 @@ Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to 
 
 ## Donating to MITRC
 
-Rowing is an expensive sport--no question about it. The grants MITRC receives from MIT/DAPER do not fully cover the cost of running the club, so we charge dues. But MITRC takes great pride in being open and accessible to all MIT affiliates, regardless of experience level or financial resources. If you would like to help us provide accessible rowing opportunities for the entire MIT community, you can do so with a donation. 
+Rowing is an expensive sport--no question about it. The grants MITRC receives from MIT/DAPER do not fully cover the cost of running the club, so we charge dues. But MITRC takes great pride in being open and accessible to all MIT affiliates, regardless of experience level or financial resources. In fact, our rowers come from all walks of life and many different cultures.
 
-Donations can be made through our our [giving.mit.edu donation page](https://giving.mit.edu/give/to?fundId=2437100).
+If you would like to help us provide accessible rowing opportunities for the entire MIT community, you can do so with a donation at our [giving.mit.edu donation page](https://giving.mit.edu/give/to?fundId=2437100).
 
-You gift will help us:
--Offset participation costs
--Keep our rowing equipment functional
--Participate in regattas
--Establish a long-term fund to provide increased financial stability
+You gift will help us:<br>
+-Offset participation costs<br>
+-Keep our rowing equipment functional<br>
+-Participate in regattas<br>
+-Establish a long-term fund to provide increased financial stability<br>
 
 _Thank You for your Support!_
 
