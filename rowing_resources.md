@@ -1,8 +1,6 @@
-## Coxing 101
-If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
+## Coxing materials:
+- If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
 <iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Coxing 102
 - Head of the Charles cox guide with information about the main hazards in the river:
 <iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - The navigation rules for the Charles River and its bridges are in [this map](http://www.charlesriverallianceofboaters.org/images/CRAB_River_Rowing_Traffic_Pattern.pdf)
