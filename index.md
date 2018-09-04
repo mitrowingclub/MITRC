@@ -69,4 +69,5 @@ _New Member Manager_: KellyAnn Tsai<br>
 _Technology Officer_: Oscar Moll<br>
 
 ## Rowing resources
-Materials on how to dress, cox, and boathouse operations [here](rowing_resources.md)
+
+Materials on [what to wear](what_to_wear.md), on [how to cox](how_to_cox.md) and on [boathouse operations](boathouse_operations.md).
