@@ -4,7 +4,7 @@ If you are coxing tomorrow and don't know where to start, watch this video!
 ## Coxing 102
 - [Head of the Charles cox guide](https://youtu.be/5yEnO2kU6Hw), with information about the main hazards.
 <div class="iframe_container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/5yEnO2kU6Hw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div>
 - The navigation rules for the Charles River and its bridges are in this map. 
 - The Charles river basin next to our boathouse has some special rules, check the map and rules here.
