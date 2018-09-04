@@ -1,4 +1,4 @@
-## How to cox:
+## How to cox
 - If you are coxing tomorrow and don't know where to start, watch our MITRC coxing guide:
 <iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 - Head of the Charles cox guide with information about the main hazards in the river:
