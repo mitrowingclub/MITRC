@@ -11,8 +11,7 @@ MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a yea
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
-MITRC rows from the MIT Pierce boathouse:
-<iframe src="https://snazzymaps.com/embed/95930" width="100%" style="border:none;"></iframe>
+MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr, Cambridge] (https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
 
 ## Joining MITRC
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
