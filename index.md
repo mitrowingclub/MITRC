@@ -1,8 +1,8 @@
-# Welcome to the MIT rowing club website!
+## News
 
 *Fall season 2018 started September 4, and is oversubscribed.* If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
 
-### MITRC at a glance
+## MITRC at a glance
 
 MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a year, we offer programs ranging from total beginners (aka Learn To Row, aka LTR), to novices, to recreational and competitive rowers.  Our members participate in several regattas throughout the year, including the Head of the Charles.
 
@@ -10,7 +10,7 @@ MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a yea
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
-### Joining MITRC
+## Joining MITRC
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
   - _Spring_: 8 weeks in April-May
   - _Summer_: 10 weeks spanning mid-June to mid-August
@@ -23,8 +23,7 @@ Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to 
 1. Register in the [MIT club sports database](https://mit.dserec.com/online/clubsports_widget/club/18/).
 1. Contact [row@mit.edu](mailto:row@mit.edu) with any lingering questions.
 
-
-### Donating to MITRC
+## Donating to MITRC
 
 Rowing is an expensive sport--no question about it. The grants MITRC receives from MIT/DAPER do not fully cover the cost of running the club, so we charge dues. But MITRC takes great pride in being open and accessible to all MIT affiliates, regardless of experience level or financial resources. If you would like to help us provide accessible rowing opportunities for the entire MIT community, you can do so with a donation. 
 
@@ -38,7 +37,7 @@ You gift will help us:
 
 _Thank You for your Support!_
 
-### Coaches
+## Coaches
 
 _John Cotter_ originally hails from Buffalo, New York, but has lived in Boston since the early 2000s. He rowed at (and graduated from) the University of Washington and continues to row competitively as a member of the Narragansett Boat Club, the oldest rowing club in America. John has long been credited as the architect of what is known as the modern stroke*. An MITRC coach since 2012, he greatly enjoys the rowers, the rowing and being able to be a small part of the MIT experience.
 
@@ -50,7 +49,7 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 * Coaches' biographies are based on information submitted by the coaches. MITRC cannot verify or refute information contained herein. 
 
-### Officers
+## Officers
 
 Officers are volunteers that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
 
