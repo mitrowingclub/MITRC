@@ -52,7 +52,7 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 ### Officers
 
-Officers are volunteers that run the club. You can reach us by email at (mitrc.officers@mit.edu)[mailto:mitrc.officers@mit.edu].
+Officers are volunteers that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
 
 _Co-Presidents_: Beth Pearce and Andy Tu<br>
 _Co-Treasurers_: Sabrina Mazer, Elise Ledieu, and Jerome Michon<br>
