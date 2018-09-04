@@ -10,7 +10,7 @@ MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a yea
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
-### Joining MITRC: step by step
+### Joining MITRC
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
   - _Spring_: 8 weeks in April-May
   - _Summer_: 10 weeks spanning mid-June to mid-August
@@ -22,3 +22,17 @@ Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to 
 1. Attend the mandatory kick-off meeting on the first day of the season. Details will be emailed to our list.
 1. Register in the [MIT club sports database](https://mit.dserec.com/online/clubsports_widget/club/18/).
 1. Contact [row@mit.edu](mailto:row@mit.edu) with any lingering questions.
+
+### Donating to MITRC
+
+Rowing is an expensive sport--no question about it. The grants MITRC receives from MIT/DAPER do not fully cover the cost of running the club, so we charge dues. But MITRC takes great pride in being open and accessible to all MIT affiliates, regardless of experience level or financial resources. If you would like to help us provide accessible rowing opportunities for the entire MIT community, you can do so with a donation. 
+
+Donations can be made through our our [giving.mit.edu donation page](https://giving.mit.edu/give/to?fundId=2437100).
+
+You gift will help us:
+-Offset participation costs
+-Keep our rowing equipment functional
+-Participate in regattas
+-Establish a long-term fund to provide increased financial stability
+
+_Thank You for your Support!_
