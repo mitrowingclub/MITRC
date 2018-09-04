@@ -1,8 +1,12 @@
 ## Welcome to the MIT rowing club's website.
 
-You can use the [editor on GitHub](https://github.com/mitrowingclub/MITRC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### MITRC TLDR:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a year, we offer programs ranging from total beginners (aka Learn To Row, aka LTR), to novices, to recreational and competitive rowers.  Our members participate in several regattas throughout the year, including the Head of the Charles.
+
+*NB*: MITRC is `not the same` as MIT varsity rowing (aka MIT crew). If you are a prospective undegrad interested in rowing while at MIT, you should be looking at the varsity rowing website [here](http://mitathletics.com/sports/m-crewlt/index).
+
+Join our [mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including future season signups.
 
 ### Markdown
 
