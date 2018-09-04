@@ -68,4 +68,5 @@ _Alumni/Outreach Managers_: Aimee Gillespie<br>
 _New Member Manager_: KellyAnn Tsai<br>
 _Technology Officer_: Oscar Moll<br>
 
-[Rowing Resources](rowing_resources.md)
+## Rowing resources
+Materials on how to dress, cox, and boathouse operations [here](rowing_resources.md)
