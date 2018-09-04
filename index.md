@@ -20,6 +20,6 @@ Join our [mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep u
 1. Non-students (eg. postdocs, staff, alumni) must show proof of DAPER membership. Current MIT students are automatically DAPER members.
 1. Fill out the official sign-up survey sent through the mailing list prior to each season.
 1. Attend the mandatory kick-off meeting on the first day of the season (details are posted on our list)
-1. Register in the MIT club sports database ([link])(https://mit.dserec.com/online/clubsports_widget/club/18/).
+1. Register in the MIT club sports database [link](https://mit.dserec.com/online/clubsports_widget/club/18/).
 1. Show up to practice on time. 
 1. Contact row@mit.edu with any lingering questions.
