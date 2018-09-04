@@ -12,10 +12,10 @@ Join our [mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep u
 
 ### Joining MITRC: step by step
 1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
-  - Spring: 8 weeks in April-May
-  - Summer: 10 weeks spanning mid-June to mid-August
-  - Fall: 8 weeks in September-October\
-1. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy: [policy details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
+  - _Spring_: 8 weeks in April-May
+  - _Summer_: 10 weeks spanning mid-June to mid-August
+  - _Fall_: 8 weeks in September-October
+2. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy: [policy details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
 1. You should know how to swim.
 1. Non-students (eg. postdocs, staff, alumni) must show proof of DAPER membership. Current MIT students are automatically DAPER members.
 1. Fill out the official sign-up survey sent through the mailing list prior to each season.
