@@ -8,7 +8,7 @@ MITRC is _not_ the same as the more competitive [MIT varsity crew](http://mitath
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
-MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
+MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Drive](https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
 
 _Fall season 2018 started September 4, and is oversubscribed_. If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
 
