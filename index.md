@@ -76,7 +76,7 @@ _Make sure to bring sunglasses and warm clothes_.
 
 More coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
 
-### Are there any more resources I can read up on in my free time?
+### Are there any more resources I can read up on?
 Not really asked frequently. But check out our [Boathouse protocols](boathouse_protocols.md) page.
 
 # Officers
