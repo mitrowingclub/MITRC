@@ -1,3 +1,5 @@
+# About MITRC
+
 _MITRC is a community-run, co-ed rowing club open to MIT affiliates.  Our club aims to develop new rowers and to let people in the MIT community enjoy the sport of rowing._
 
 For three seasons every year, we offer rowing practices for people at all levels of experience and of all ages: ranging from complete beginners (aka Learn To Row, aka LTR) to competitive rowers. Our members' ages range from 20 to 70+ years old, and their affiliations to MIT run the gamut from students, to staff, to faculty, to alumni. Our members participate in several regattas throughout the year, including the Head of the Charles.
@@ -8,7 +10,7 @@ Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to 
 
 MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
 
-*Fall season 2018 started September 4, and is oversubscribed*. If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
+_Fall season 2018 started September 4, and is oversubscribed_. If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
 
 # Joining MITRC
 
@@ -16,7 +18,7 @@ MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://
   - _Spring_: 8 weeks during April-May
   - _Summer_: 10 weeks spanning mid-June to mid-August
   - _Fall_: 8 weeks during September-October
-2. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy [details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
+1. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy [details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
 1. You should know how to swim.
 1. If you have never rowed before, then you can join our learn to row program (LTR).
 1. Non-students (eg. postdocs, staff, alumni) must show proof of DAPER membership. Current MIT students are automatically DAPER members.
@@ -53,7 +55,7 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 # Rowing FAQ
 
-### I'm new. What do I wear tomorrow?
+#### I'm new. What do I wear for practice tomorrow?
 
 If you are new to the club or to Boston weather, know that conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land.  Additionally, you will get wet from perspiration, splash or rain. 
 
@@ -67,7 +69,7 @@ Here's a checklist to help you gear up appropriately:
 
 MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
 
-### I've been assigned to cox. Help?
+#### I've been assigned to cox. Help?
 We rely on all members to cox the boats. Relax, and let MITRC's former head cox Tom Law guide you to success.
 
 <iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen width="90%" align="center"></iframe>
@@ -76,8 +78,8 @@ _Make sure to bring sunglasses and warm clothes_.
 
 More coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
 
-### Are there any more resources I can read up on?
-Not really asked frequently. But check out our [Boathouse protocols](boathouse_protocols.md) page.
+#### Can I read more things?
+Not asked that frequently. But check out our [Boathouse protocols](boathouse_protocols.md) page.
 
 # Officers
 
