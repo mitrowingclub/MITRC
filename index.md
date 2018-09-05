@@ -68,7 +68,7 @@ MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and
 ### How to cox 
 If you are coxing tomorrow and don't know where to start, let MITRC's own coxing guide you to success
 
-<iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen width="90%" align="center"></iframe>
 
 More advanced coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
 
