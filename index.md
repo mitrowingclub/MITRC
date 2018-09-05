@@ -51,28 +51,33 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 * Coaches' biographies are based on information submitted by the coaches. MITRC cannot verify or refute information contained herein. 
 
-# Rowing resources
+# Rowing FAQ
 
-### What to wear
+### I'm new. What do I wear tomorrow?
 
-Conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land. Additionally, you will get wet from perspiration, splash or rain. Here's a basic checklist to help you:
+If you are new to the club or to Boston weather, know that conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land.  Additionally, you will get wet from perspiration, splash or rain. 
 
-1. Hats, sunglasses and sunscreen.
-1. Avoid cotton and down.
+Here's a checklist to help you gear up appropriately:
+
+1. Hats, sunglasses and sunscreen. 
 1. Socks. The rowing shoes are attached to the boat, so you share them with many people.
 1. Form fitting clothes. Loose shorts get caught in the slides under the moving seats. Avoid basketball style shorts, sweatpants, or warm-ups.  Loose tops can get caught in the oar handles, so avoid bulky jackets or sweatshirts. Prefer spandex shorts/trousers for wearing in the boat. 
-1. Layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
+1. For colder days: layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
+1. Avoid cotton and down.
 
 MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
 
-### How to cox 
-If you are coxing tomorrow and don't know where to start, let MITRC's former head cox guide you to success
+### I've been assigned to cox. Help?
+We rely on all members to cox the boats. Relax, and let MITRC's former head cox Tom Law guide you to success.
 
 <iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen width="90%" align="center"></iframe>
 
-More advanced coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
+_Make sure to bring sunglasses and warm clothes_.
 
-### [Boathouse protocols](boathouse_protocols.md)
+More coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
+
+### Are there any more resources I can read up on in my free time?
+Not really asked frequently. But check out our [Boathouse protocols](boathouse_protocols.md) page.
 
 # Officers
 
