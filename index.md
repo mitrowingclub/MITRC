@@ -53,7 +53,7 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 * Coaches' biographies are based on information submitted by the coaches. MITRC cannot verify or refute information contained herein. 
 
-# Rowing FAQ
+# FAQ
 
 #### I'm new. What do I wear for practice tomorrow?
 
