@@ -67,7 +67,9 @@ Here's a checklist to help you gear up appropriately:
 1. For colder days: layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
 1. Avoid cotton and down.
 
-MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
+#### Can I buy MITRC gear?
+
+Yes. MITRC's _classic_ striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order.
 
 #### I've been assigned to cox. Help?
 We rely on all members to cox the boats. Relax, and let MITRC's former head cox Tom Law guide you to success.
