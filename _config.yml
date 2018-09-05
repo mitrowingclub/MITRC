@@ -1,3 +1,4 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
+remote_theme: mitrowingclub/hyde
 title: MITRC
 description: The official website of the MIT rowing club
