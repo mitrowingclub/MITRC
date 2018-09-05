@@ -1,10 +1,3 @@
-## News
-
-- Fall season 2018 started September 4, and is oversubscribed.* If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
-- This website is under construction. The older website is still available at https://sites.google.com/site/mitrowingclub/. Coxing and rowing resources are available there.
-
-## MITRC at a glance
-
 MITRC is a community-run, co-ed rowing club open to MIT affiliates.  Our club aims to develop new rowers and to let people in the MIT community enjoy the sport of rowing. 
 
 For three seasons every year, we offer rowing practices for people at all levels of experience and of all ages: ranging from complete beginners (aka Learn To Row, aka LTR) to competitive rowers. Our members' ages range from 20 to 70+ years old, and their affiliations to MIT run the gamut from students, to staff, to faculty, to alumni. Our members participate in several regattas throughout the year, including the Head of the Charles.
@@ -14,6 +7,8 @@ MITRC is _not_ the same as the more competitive [MIT varsity crew](http://mitath
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
 MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
+
+*Fall season 2018 started September 4, and is oversubscribed*. If you want to cox, coach or sub, then feel free to get in touch. Otherwise, stay tuned for future seasons by subscribing to our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc).
 
 ## How to join MITRC
 1. Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) and stay tuned for new season announcements. Sign up emails with the exact dates are sent out the month before our seasons start. You can expect the seasons to follow this pattern:
@@ -41,22 +36,6 @@ _Christine Chirch-Cassidy_ hails from Chicago where she started rowing as a fres
 
 * Coaches' biographies are based on information submitted by the coaches. MITRC cannot verify or refute information contained herein. 
 
-## Officers
-
-Officers are volunteers that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
-
-_Co-Presidents_: Beth Pearce and Andy Tu<br>
-_Co-Treasurers_: Sabrina Mazer, Elise Ledieu, and Jerome Michon<br>
-_Schedulers_: Jane Liu, Karin Strittmatter<br>
-_Regatta Managers_: Andrew Cunningham and Lily Smith<br>
-_Equipment Manager_: Tom Smith<br>
-_Gear Manager_: William Doss Suter<br>
-_Social Chairs_: Francisco Lopez<br>
-_Head Coxswain_: Anne Fraysse<br>
-_Alumni/Outreach Managers_: Aimee Gillespie<br>
-_New Member Manager_: KellyAnn Tsai<br>
-_Technology Officer_: Oscar Moll<br>
-
 ## Rowing resources
 
 ### What to wear
@@ -74,3 +53,19 @@ MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and
 ### [How to cox](how_to_cox.md) 
 
 ### [Boathouse protocols](boathouse_protocols.md)
+
+## Officers
+
+Officers are volunteers that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
+
+_Co-Presidents_: Beth Pearce and Andy Tu<br>
+_Co-Treasurers_: Sabrina Mazer, Elise Ledieu, and Jerome Michon<br>
+_Schedulers_: Jane Liu, Karin Strittmatter<br>
+_Regatta Managers_: Andrew Cunningham and Lily Smith<br>
+_Equipment Manager_: Tom Smith<br>
+_Gear Manager_: William Doss Suter<br>
+_Social Chairs_: Francisco Lopez<br>
+_Head Coxswain_: Anne Fraysse<br>
+_Alumni/Outreach Managers_: Aimee Gillespie<br>
+_New Member Manager_: KellyAnn Tsai<br>
+_Technology Officer_: Oscar Moll<br>
