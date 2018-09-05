@@ -69,9 +69,9 @@ MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and
 
 ### [Boathouse protocols](boathouse_protocols.md)
 
-## Officers
+# Officers
 
-Officers are volunteers that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
+Officers are volunteer members that run the club. You can reach us by email at [mitrc.officers@mit.edu](mailto:mitrc.officers@mit.edu).
 
 _Co-Presidents_: Beth Pearce and Andy Tu<br>
 _Co-Treasurers_: Sabrina Mazer, Elise Ledieu, and Jerome Michon<br>
