@@ -20,25 +20,24 @@ MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://
   - _Fall_: 8 weeks in September-October
 2. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy [details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
 1. You should know how to swim.
+1. If you have never rowed before, then you can join our learn to row program (LTR).
 1. Non-students (eg. postdocs, staff, alumni) must show proof of DAPER membership. Current MIT students are automatically DAPER members.
 1. Fill out the official sign-up survey sent through the mailing list prior to each season.
 1. Attend the mandatory kick-off meeting on the first day of the season. Details will be emailed to our list.
 1. Register in the [MIT club sports database](https://mit.dserec.com/online/clubsports_widget/club/18/).
 1. Contact [row@mit.edu](mailto:row@mit.edu) with any lingering questions.
 
-## Donating to MITRC
+## What to wear
 
-Rowing is an expensive sport--no question about it. The grants MITRC receives from MIT/DAPER do not fully cover the cost of running the club, so we charge dues. But MITRC takes great pride in being open and accessible to all MIT affiliates, regardless of experience level or financial resources. In fact, our rowers come from all walks of life and many different cultures.
+Conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land. Additionally, you will get wet from perspiration, splash or rain. Here's a basic checklist to help you:
 
-If you would like to help us provide accessible rowing opportunities for the entire MIT community, you can do so with a donation at our [giving.mit.edu donation page](https://giving.mit.edu/give/to?fundId=2437100).
+1. Hats, sunglasses and sunscreen.
+1. Avoid cotton and down.
+1. Socks. The rowing shoes are attached to the boat, so you share them with many people.
+1. Form fitting clothes. Loose shorts get caught in the slides under the moving seats. Avoid basketball style shorts, sweatpants, or warm-ups.  Loose tops can get caught in the oar handles, so avoid bulky jackets or sweatshirts. Prefer spandex shorts/trousers for wearing in the boat. 
+1. Layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
 
-You gift will help us:<br>
--Offset participation costs<br>
--Keep our rowing equipment functional<br>
--Participate in regattas<br>
--Establish a long-term fund to provide increased financial stability<br>
-
-_Thank You for your Support!_
+MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
 
 ## Coaches
 
@@ -70,4 +69,4 @@ _Technology Officer_: Oscar Moll<br>
 
 ## Rowing resources
 
-Materials on [what to wear](what_to_wear.md), on [how to cox](how_to_cox.md) and on [boathouse protocols](boathouse_protocols.md).
+MITRC's materials on [how to cox](how_to_cox.md) and on [boathouse protocols](boathouse_protocols.md)
