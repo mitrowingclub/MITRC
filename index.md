@@ -65,7 +65,12 @@ Conditions on the water often are 10 degrees cooler, and the wind is frequently 
 
 MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
 
-### [How to cox](how_to_cox.md) 
+### How to cox 
+If you are coxing tomorrow and don't know where to start, let MITRC's own coxing guide you to success
+
+<iframe src="https://www.youtube-nocookie.com/embed/P3vykD5EO2M?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+More advanced coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
 
 ### [Boathouse protocols](boathouse_protocols.md)
 
