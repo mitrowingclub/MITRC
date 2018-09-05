@@ -5,19 +5,21 @@
 
 ## MITRC at a glance
 
-MITRC is a community-run, co-ed rowing club open to MIT affiliates. Thrice a year, we offer programs ranging from total beginners (aka Learn To Row, aka LTR), to novices, to recreational and competitive rowers.  Our members participate in several regattas throughout the year, including the Head of the Charles.
+MITRC is a community-run, co-ed rowing club open to MIT affiliates.  Our club aims to develop new rowers and to let people in the MIT community enjoy the sport of rowing. 
 
-*NB*: MITRC is _not the same_ as the [MIT varsity crew](http://mitathletics.com/sports/m-crewlt/index). If you are a prospective undegrad athlete interested in rowing while at MIT, you should be contacting them.
+For three seasons every year, we offer rowing practices for people at all levels of experience and of all ages: ranging from complete beginners (aka Learn To Row, aka LTR) to competitive rowers. Our members' ages range from 20 to 70+ years old, and their affiliations to MIT run the gamut from students, to staff, to faculty, to alumni. Our members participate in several regattas throughout the year, including the Head of the Charles.
+
+MITRC is _not_ the same as the more competitive [MIT varsity crew](http://mitathletics.com/sports/m-crewlt/index). If you are a (prospective) undegrad athlete interested in rowing while at MIT, you should be in touch with them.
 
 Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) to keep up with important announcements, including signup sheets for future seasons.
 
 MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://www.google.com/maps/place/Pierce+Boathouse,+406+Memorial+Dr,+Cambridge,+MA+02139/@42.355133,-71.098868,15z/data=!4m5!3m4!1s0x89e37a01e765ddf1:0x606e87c60fa86999!8m2!3d42.3553235!4d-71.0968297?hl=en-US)
 
-## Joining MITRC
-1. Join our mailing list and stay tuned for new season announcements. Sign up emails are sent out the month before our seasons start. The exact dates will be specified in those emails, but roughly correspond to the following:
-  - _Spring_: 8 weeks in April-May
+## How to join MITRC
+1. Join our [mitrc mailing list](http://mailman.mit.edu/mailman/listinfo/mitrc) and stay tuned for new season announcements. Sign up emails with the exact dates are sent out the month before our seasons start. You can expect the seasons to follow this pattern:
+  - _Spring_: 8 weeks during April-May
   - _Summer_: 10 weeks spanning mid-June to mid-August
-  - _Fall_: 8 weeks in September-October
+  - _Fall_: 8 weeks during September-October
 2. Check your eligibility. Eligibility for MITRC follows the MIT Club Sports eligibility policy [details here](https://clubsports.mit.edu/about/eligibility). _Unfortunately, this MIT policy disqualifies those whose only affiliation to MIT is through employment at the Broad, Whitehead or Draper Lab._
 1. You should know how to swim.
 1. If you have never rowed before, then you can join our learn to row program (LTR).
