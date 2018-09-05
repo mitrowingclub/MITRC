@@ -80,6 +80,10 @@ _Make sure to bring sunglasses and warm clothes_.
 
 More coxing materials are available in our [How to cox](how_to_cox.md) page, check them out!
 
+#### I want MITRC to attend our prestigious regatta. How do I get in touch?
+
+Contact us at [row@mit.edu](mailto:row@mit.edu). 
+
 #### Can I read more things?
 Not asked that frequently. But check out our [Boathouse protocols](boathouse_protocols.md) page.
 
