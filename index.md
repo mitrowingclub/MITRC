@@ -29,18 +29,6 @@ MITRC rows from the [MIT Pierce Boathouse at 406 Memorial Dr Cambridge](https://
 1. Register in the [MIT club sports database](https://mit.dserec.com/online/clubsports_widget/club/18/).
 1. Contact [row@mit.edu](mailto:row@mit.edu) with any lingering questions.
 
-## What to wear
-
-Conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land. Additionally, you will get wet from perspiration, splash or rain. Here's a basic checklist to help you:
-
-1. Hats, sunglasses and sunscreen.
-1. Avoid cotton and down.
-1. Socks. The rowing shoes are attached to the boat, so you share them with many people.
-1. Form fitting clothes. Loose shorts get caught in the slides under the moving seats. Avoid basketball style shorts, sweatpants, or warm-ups.  Loose tops can get caught in the oar handles, so avoid bulky jackets or sweatshirts. Prefer spandex shorts/trousers for wearing in the boat. 
-1. Layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
-
-MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
-
 ## Coaches
 
 _John Cotter_ originally hails from Buffalo, New York, but has lived in Boston since the early 2000s. He rowed at (and graduated from) the University of Washington and continues to row competitively as a member of the Narragansett Boat Club, the oldest rowing club in America. John has long been credited as the architect of what is known as the modern stroke*. An MITRC coach since 2012, he greatly enjoys the rowers, the rowing and being able to be a small part of the MIT experience.
@@ -71,4 +59,18 @@ _Technology Officer_: Oscar Moll<br>
 
 ## Rowing resources
 
-MITRC's materials on [how to cox](how_to_cox.md) and on [boathouse protocols](boathouse_protocols.md)
+### What to wear
+
+Conditions on the water often are 10 degrees cooler, and the wind is frequently stronger than on land. Additionally, you will get wet from perspiration, splash or rain. Here's a basic checklist to help you:
+
+1. Hats, sunglasses and sunscreen.
+1. Avoid cotton and down.
+1. Socks. The rowing shoes are attached to the boat, so you share them with many people.
+1. Form fitting clothes. Loose shorts get caught in the slides under the moving seats. Avoid basketball style shorts, sweatpants, or warm-ups.  Loose tops can get caught in the oar handles, so avoid bulky jackets or sweatshirts. Prefer spandex shorts/trousers for wearing in the boat. 
+1. Layers. A base layer (eg, running or workout t-shirts or tanks, fabrics such as Polypropylene and Capilene), an insulating layer (eg synthetic fleece jacket), and a wind block layer (eg. a wind breaker).
+
+MITRC's striped uniforms as well as splash-jackets, shirts, tank-tops, hats, and other MITRC-branded gear are available for purchase multiple times a year. An e-mail announcement will be sent to all members in advance of each gear order. 
+
+### [How to cox](how_to_cox.md) 
+
+### [Boathouse protocols](boathouse_protocols.md)
